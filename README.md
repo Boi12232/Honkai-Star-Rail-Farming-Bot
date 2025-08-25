@@ -1,2 +1,5 @@
-# Honkai-Star-Rail-Farming-Bot
-A rudimentary bot made programmed in VSCode and Java utilizing OCR and the Robot library to read and automate farming in Honkai Star Rail
+# Honkai-Star-Rail-Bot
+A rudimentary Java based bot programmed in VSCode utilizing Tesseract OCR and various Java libraries to automate tasks in the video game Honkai: Star Rail
+
+Tesseract OCR sourced from: https://github.com/tesseract-ocr/tesseract
+
